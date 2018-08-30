@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Shizuka's hello
+=======
 Nobita's hello
+>>>>>>> master
 Hello GitHub
